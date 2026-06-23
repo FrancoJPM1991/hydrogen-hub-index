@@ -1,0 +1,2 @@
+I_statistic,Expected_I,z_score,p_value_normal,p_value_simulated,permutations,interpretation
+0.5096572847709779,-0.0004038772213247173,40.25846696745608,0.0,0.001,999,Positive spatial autocorrelation (significant at 5%)

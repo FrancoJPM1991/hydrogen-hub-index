@@ -1,0 +1,60 @@
+Tipo,Nombre,Ciudad,Estado,Latitud,Longitud
+Puerto,Puerto de Manzanillo,Manzanillo,Colima,19.0522,-104.3161
+Puerto,Puerto Lázaro Cárdenas,Lázaro Cárdenas,Michoacán,17.9472,-102.1764
+Puerto,Puerto de Veracruz,Veracruz,Veracruz,19.2022,-96.1331
+Puerto,Puerto de Altamira,Altamira,Tamaulipas,22.4283,-97.9358
+Puerto,Puerto de Ensenada,Ensenada,Baja California,31.8594,-116.6231
+Puerto,Puerto de Coatzacoalcos,Coatzacoalcos,Veracruz,18.1492,-94.4253
+Puerto,Puerto de Dos Bocas,Paraíso,Tabasco,18.4358,-93.2081
+Puerto,Puerto de Progreso,Progreso,Yucatán,21.2961,-89.6644
+Puerto,Puerto de Guaymas,Guaymas,Sonora,27.9172,-110.8878
+Puerto,Puerto de Mazatlán,Mazatlán,Sinaloa,23.1908,-106.4172
+Puerto,Puerto de Topolobampo,Ahome,Sinaloa,25.6022,-109.0494
+Puerto,Puerto de Salina Cruz,Salina Cruz,Oaxaca,16.1664,-95.1953
+Puerto,Puerto Vallarta,Puerto Vallarta,Jalisco,20.6472,-105.2444
+Puerto,Puerto de Cabo San Lucas,Cabo San Lucas,Baja California Sur,22.8856,-109.9114
+Puerto,Puerto de Pichilingue,La Paz,Baja California Sur,24.2714,-110.3236
+Puerto,Puerto de Tampico,Tampico,Tamaulipas,22.2158,-97.8569
+Aeropuerto,Aeropuerto Internacional de la Ciudad de México (AICM),Ciudad de México,CDMX,19.4363,-99.0719
+Aeropuerto,Aeropuerto Internacional Felipe Ángeles (AIFA),Zumpango,Estado de México,19.7431,-99.0125
+Aeropuerto,Aeropuerto Internacional de Cancún,Cancún,Quintana Roo,21.0365,-86.8771
+Aeropuerto,Aeropuerto Internacional de Guadalajara,Guadalajara,Jalisco,20.5218,-103.3111
+Aeropuerto,Aeropuerto Internacional de Monterrey,Monterrey,Nuevo León,25.7785,-100.1069
+Aeropuerto,Aeropuerto Internacional de Tijuana,Tijuana,Baja California,32.5411,-116.9702
+Aeropuerto,Aeropuerto Internacional de Los Cabos,San José del Cabo,Baja California Sur,23.1518,-109.7211
+Aeropuerto,Aeropuerto Internacional de Puerto Vallarta,Puerto Vallarta,Jalisco,20.6801,-105.2541
+Aeropuerto,Aeropuerto Internacional del Bajío,Silao,Guanajuato,20.9934,-101.4808
+Aeropuerto,Aeropuerto Internacional de Mérida,Mérida,Yucatán,20.9369,-89.6577
+Aeropuerto,Aeropuerto Internacional de Culiacán,Culiacán,Sinaloa,24.8134,-107.4747
+Aeropuerto,Aeropuerto Internacional de Hermosillo,Hermosillo,Sonora,29.0959,-111.0479
+Aeropuerto,Aeropuerto Internacional de Chihuahua,Chihuahua,Chihuahua,28.7029,-105.9644
+Aeropuerto,Aeropuerto Internacional de Ciudad Juárez,Ciudad Juárez,Chihuahua,31.6361,-106.4286
+Aeropuerto,Aeropuerto Internacional de Oaxaca,Oaxaca,Oaxaca,17.0002,-96.7266
+Aeropuerto,Aeropuerto Internacional de Huatulco,Huatulco,Oaxaca,15.7753,-96.2626
+Aeropuerto,Aeropuerto Internacional de Acapulco,Acapulco,Guerrero,16.7571,-99.7540
+Aeropuerto,Aeropuerto Internacional de Veracruz,Veracruz,Veracruz,19.1453,-96.1873
+Aeropuerto,Aeropuerto Internacional de Villahermosa,Villahermosa,Tabasco,17.9931,-92.8174
+Aeropuerto,Aeropuerto Internacional de Tuxtla Gutiérrez,Chiapa de Corzo,Chiapas,16.5619,-93.0225
+Aeropuerto,Aeropuerto Internacional de Mazatlán,Mazatlán,Sinaloa,23.1614,-106.2661
+Aeropuerto,Aeropuerto Internacional de Tampico,Tampico,Tamaulipas,22.2964,-97.8647
+Aeropuerto,Aeropuerto Internacional de Torreón,Torreón,Coahuila,25.5681,-103.4106
+Aeropuerto,Aeropuerto Internacional de Toluca,Toluca,Estado de México,19.3372,-99.5661
+Aeropuerto,Aeropuerto Internacional de Querétaro,Colón,Querétaro,20.6172,-100.1856
+Aeropuerto,Aeropuerto Internacional de Cozumel,Cozumel,Quintana Roo,20.5153,-86.9253
+Aeropuerto,Aeropuerto Internacional de Morelia,Álvaro Obregón,Michoacán,19.8497,-101.0244
+Aeropuerto,Aeropuerto Internacional de Aguascalientes,Aguascalientes,Aguascalientes,21.7056,-102.3178
+Aeropuerto,Aeropuerto Internacional de San Luis Potosí,San Luis Potosí,San Luis Potosí,22.2542,-100.9308
+Aeropuerto,Aeropuerto Internacional de Puebla,Huejotzingo,Puebla,19.1581,-98.3717
+Aeropuerto,Aeropuerto Internacional de Mexicali,Mexicali,Baja California,32.6306,-115.2417
+Aeropuerto,Aeropuerto Internacional de La Paz,La Paz,Baja California Sur,24.0728,-110.3625
+Aeropuerto,Aeropuerto Internacional de Manzanillo,Manzanillo,Colima,19.1444,-104.5589
+Aeropuerto,Aeropuerto Internacional de Minatitlán,Cosoleacaque,Veracruz,18.1025,-94.5808
+Aeropuerto,Aeropuerto Internacional de Tapachula,Tapachula,Chiapas,14.7942,-92.3700
+Aeropuerto,Aeropuerto Internacional de Chetumal,Chetumal,Quintana Roo,18.5047,-88.3267
+Aeropuerto,Aeropuerto Internacional de Tulum,Felipe Carrillo Puerto,Quintana Roo,20.1603,-87.6653
+Aeropuerto,Aeropuerto Internacional de Puerto Escondido,Puerto Escondido,Oaxaca,15.8767,-97.0886
+Aeropuerto,Aeropuerto Internacional de Durango,Durango,Durango,24.1242,-104.5283
+Aeropuerto,Aeropuerto Internacional de Zacatecas,Calera,Zacatecas,22.8969,-102.6869
+Aeropuerto,Aeropuerto Internacional de Uruapan,Uruapan,Michoacán,19.3967,-102.0392
+Aeropuerto,Aeropuerto Internacional de Colima,Cuauhtémoc,Colima,19.2764,-103.5772
+Aeropuerto,Aeropuerto Internacional de Tepic,Tepic,Nayarit,21.4194,-104.8425

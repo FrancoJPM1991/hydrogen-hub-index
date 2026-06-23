@@ -1,0 +1,13 @@
+﻿Variable,Tipo,Nombre,Descripcion
+IDVIA,Numérico,Identificador,Numero identificador de la vía.
+LINEA,Texto,Línea Ferroviaria,Nombre oficial determinado para identificar las vías ferroviarias.
+ENTIDAD,Texto,Entidad ferroviaria,Nombre de la empresa ferroviaria o gobierno estatal que tiene la concesión o asignación de la vía férrea.
+CNDICON,Texto,Tipo de operación,Situación operativa de la vía férrea.
+VIA,Texto,Vía General,Nombre oficial de la vía general de comunicación.
+LONG,Numérico,Longitud,Longitud del tramo ferroviario.
+SERVICIO,Texto,Servicio,Tipo de servicio de transporte otorgado en la vía ferroviaria.
+TIPO_VIA,Texto,Tipo de vía,Clasificación de la vía de acuerdo a su funcionalidad.
+PRECISION,Texto,Precisión,"Presición en la posición del elemento, la cual puede ser definida, aproximada, calculada o virtual."
+DDP,Numérico,Derecho de paso,"Indica la existencia de un derecho de paso, representando con ""0"" la ruta sin derecho de paso y ""1"" la ruta con derecho de paso."
+NIVEL,Numérico,Nivel de línea,"Valor de la altura a la que se encuentra la línea, representando con ""0"" el nivel de piso, ""-1"" nivel subterráneo y ""1"" para niveles superiores."
+FECHA_ACT,Fecha,Fecha,Fecha de actualización.
