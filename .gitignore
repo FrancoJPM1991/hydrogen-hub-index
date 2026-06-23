@@ -1,0 +1,12 @@
+cat >> .gitignore << 'EOF'
+# --- Large raw data files (exceed GitHub 100 MB limit) ---
+data/raw/resources/wind_density_tif/*.tif
+data/raw/security/crime_rates_csv/*.csv
+data/raw/logistics/highways_gpkg/*.gpkg
+data/raw/market/economic_units_locations_shp/*.dbf
+
+# --- Files above GitHub recommended 50 MB (warnings) ---
+data/raw/geography/municipalities/00mun.shp
+data/raw/logistics/railways_shp/via_ferrea.shp
+data/raw/geography/mexico_land_polygon/lc_rep_mex_v_2024.shp
+EOF
